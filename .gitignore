@@ -12,3 +12,5 @@ wordpress/
 uploads.ini
 docker-compose.yml.save
 docker-compose.yml.save.1
+/wp-admin/
+/wp-includes/
