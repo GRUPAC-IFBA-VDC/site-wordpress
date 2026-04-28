@@ -1,0 +1,10 @@
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+.env
+*.env
+*.log
+wordpress/
+uploads.ini
+docker-compose.yml.save
+docker-compose.yml.save.1
