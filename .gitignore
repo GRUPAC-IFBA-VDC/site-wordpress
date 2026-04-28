@@ -11,7 +11,6 @@ wordpress/wp-content/backups-dup-lite/
 wordpress/wp-content/ai1wm-backups/
 wordpress/wp-content/plugins/wpvivid-backuprestore/vendor/
 wordpress/wp-content/plugins/duplicator/
-wordpress/wp-config.php
 wordpress/wp-config-docker.php
 docker-compose.yml.save
 docker-compose.yml.save.1
