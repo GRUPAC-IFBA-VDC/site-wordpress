@@ -10,8 +10,13 @@ wordpress/wp-content/backups-dup-lite/
 wordpress/wp-content/ai1wm-backups/
 wordpress/wp-content/plugins/wpvivid-backuprestore/vendor/
 wordpress/wp-content/plugins/duplicator/
-wordpress/wp-includes/
 wordpress/wp-admin/
+wordpress/wp-includes/
+wordpress/*.php
+wordpress/*.html
+wordpress/*.txt
+wordpress/licenca.txt
+wordpress/.htaccess
 .env
 *.env
 *.log
