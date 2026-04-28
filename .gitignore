@@ -1,4 +1,5 @@
-wp-content/
+.env
+*.env
 wordpress/wp-content/uploads/
 wordpress/wp-content/cache/
 wordpress/wp-content/upgrade/
@@ -10,16 +11,8 @@ wordpress/wp-content/backups-dup-lite/
 wordpress/wp-content/ai1wm-backups/
 wordpress/wp-content/plugins/wpvivid-backuprestore/vendor/
 wordpress/wp-content/plugins/duplicator/
-wordpress/wp-admin/
-wordpress/wp-includes/
-wordpress/*.php
-wordpress/*.html
-wordpress/*.txt
-wordpress/licenca.txt
-wordpress/.htaccess
-.env
-*.env
-*.log
-uploads.ini
+wordpress/wp-config.php
+wordpress/wp-config-docker.php
 docker-compose.yml.save
 docker-compose.yml.save.1
+uploads.ini
