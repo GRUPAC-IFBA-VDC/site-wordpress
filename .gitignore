@@ -1,6 +1,10 @@
 wp-content/uploads/
 wp-content/cache/
 wp-content/upgrade/
+wp-content/webp-express/
+wp-content/wpvividbackups/
+wp-content/wpvivid_staging/
+wp-content/plugins/wpvivid-backuprestore/vendor/
 .env
 *.env
 *.log
